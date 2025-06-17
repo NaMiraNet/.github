@@ -1,6 +1,8 @@
 ## Why Namira Exists ?
 
-In a time of internet surveillance and increasing incursions on individual freedoms, we remain committed to the ideals of the unobstructed flow of information principles. This belief is what created Namira  (a name that means “*pure*” and symbolizes resilience, continuity, and **freedom**).
+In a time of internet surveillance and increasing incursions on individual freedoms, we remain committed to the ideals of the unobstructed flow of information principles.
+
+This belief is what created Namira  (a name that means “*pure*” and symbolizes resilience, continuity, and **freedom**).
 
 ### Namira: Always Connected. Always Free.
 
